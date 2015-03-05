@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/SpaceCadet.tmTheme",
+	// PSR rules
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 8,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true",
+	// auto cimplete rules
+	"auto_match_enabled": false,
+	"auto_complete": false,
+	// interface rules
+	"always_show_minimap_viewport": true,
+	"highlight_line": true,
+}
